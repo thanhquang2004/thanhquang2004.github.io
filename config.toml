@@ -1,4 +1,5 @@
 # Change the default theme to be use when building the site with Hugo
+baseURL = "https://thanhquang2004.github.io/load-balancer-workshop/"
 theme = "hugo-theme-learn"
 
 # For search functionality
